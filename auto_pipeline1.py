@@ -5,7 +5,7 @@ import numpy as np
 import shutil, time, subprocess
 from pathlib import Path
 from threading import Thread, Event
-from train import retrain_model
+from train1 import retrain_model
 
 
 # CONFIG
